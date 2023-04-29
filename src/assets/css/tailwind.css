@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  @apply flex min-h-screen;
+}
+
+#root{
+  font-family: 'Helvetica', system-ui, sams-serif;
+}
